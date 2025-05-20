@@ -117,15 +117,14 @@ By the end of this course, students should be able to:
 ## Grading
 This course will involve several homework assignments and a final project focused on generative AI. Attendance and participation, homework assignments, and the final project will be graded as follows:
 
-- Attendance and Participation: 10%
-- Homework Assignments: 40%
+- Quizes: 5%
+- Homework Assignments: 45%
 - Final Project: 50%
 
-## Homeworks 
-- [HW1](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW1.md) due June 1
-- [HW2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW2.md) [helper](https://huggingface.co/docs/diffusers/v0.18.2/en/tutorials/basic_training) due June 8
-- [HW3](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW3_.ipynb) due June 15
-- [HW4](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW4.md) due June 26
+# Homeworks
+
+DO NOT START WORKING ON THE HOMEWORKS BEFORE YET, the files in this repo that are not shown within this text file are old homeworks and this year we may assign new homeworks, please wait the instructions in class.
+
 
 # Course Project:
 
@@ -135,7 +134,7 @@ This course will involve a final project focused on generative AI. Your final pr
 
 ## Final Project
 
-### Task 1: Project Proposal, Data Selection, and Data Description (5%) ( due June 8 )
+### Task 1: Project Proposal, Data Selection, and Data Description (5%) (due check Canvas)
 
 In this task, you will submit a project proposal that includes the following components:
 
@@ -143,7 +142,7 @@ In this task, you will submit a project proposal that includes the following com
 - **Data Selection**: Detail the sources of your data and explain why these sources are suitable. Discuss any preprocessing steps required.
 - **Data Description**: Provide a comprehensive description of the data, including format, size, attributes, and any inherent challenges or limitations.
 
-### Task 2: Jupyter Notebook (35%) ( due June 27th )
+### Task 2: Jupyter Notebook and medium post (35%) ( due check Canvas )
 
 You will create a comprehensive Jupyter notebook that documents your project, including the following components:
 
@@ -152,7 +151,7 @@ You will create a comprehensive Jupyter notebook that documents your project, in
 3. **Methods (5%)**: Explain the algorithms, techniques, or frameworks used in your project.
 4. **Experiments and Results (10%)**: Present your experiments and results using performance metrics, visualizations, and analyses.
 
-### Task 3: Recorded Presentation (10%) ( due June 27th )
+### Task 3: Recorded Presentation (10%) ( due check Canvas )
 
 You will deliver a recorded presentation explaining your project, including its objectives, methodology, results, and conclusions. This presentation should not exceed 10 minutes and should involve all team members.
 
