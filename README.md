@@ -123,7 +123,9 @@ This course will involve several homework assignments and a final project focuse
 
 # Homeworks
 
-DO NOT START WORKING ON THE HOMEWORKS BEFORE YET, the files in this repo that are not shown within this text file are old homeworks and this year we may assign new homeworks, please wait the instructions in class.
+Only work on the homeworks posted here. Do not work on the homeworks before they are posted here.
+
+[HW1](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW1.md)
 
 
 # Course Project:
