@@ -27,7 +27,7 @@ cd PyTorch-VAE
 
 ### 2. Prepare the CelebA Dataset
 
-Download the CelebA dataset from the [official website](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). Extract the dataset and place it in a directory, noting the path.
+Download the small CelebA dataset from the [Kaggle website](https://www.kaggle.com/datasets/therealcyberlord/50k-celeba-dataset-64x64). Extract the dataset and place it in a directory, noting the path.
 
 
 ### 3. Create a Jupyter Notebook
