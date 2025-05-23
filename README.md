@@ -45,16 +45,16 @@ By the end of this course, students should be able to:
   -  AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AutoEncoders.ipynb)   
    * Variational AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/VAE.ipynb)
    * AE and VAE [lecture note](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AE.pdf)      
-2. **Autoregressive Models** [Intro to AR models](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/auto_regressive_models.pdf) [simple_autoregressive](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_autoregressive_gen_model.ipynb) [SimplePixelCNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/PixelCNN.ipynb) [PixelCNN full implementation](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/05_autoregressive/02_pixelcnn/pixelcnn.ipynb) [char rnn](https://github.com/karpathy/char-rnn) [rnn-effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-3. **Normalization Flow and Gans**
+2. **Normalization Flow and Gans**
    * NF [blog](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
    * NF [blog2](https://gebob19.github.io/normalizing-flows/)
    * NF [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_NF.ipynb) 
    * NF Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/NF.pdf)
    * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS%20(2).ipynb)  
    * GANS Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANs.pdf)
-   * GANS [blog](https://gwern.net/gan) 
+   * GANS [blog](https://gwern.net/gan)
+3. **Autoregressive Models** [Intro to AR models](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/auto_regressive_models.pdf) [simple_autoregressive](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_autoregressive_gen_model.ipynb) [SimplePixelCNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/PixelCNN.ipynb) [PixelCNN full implementation](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/05_autoregressive/02_pixelcnn/pixelcnn.ipynb) [char rnn](https://github.com/karpathy/char-rnn) [rnn-effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 4. **Diffusion Models** -(Part I)
     * [Diffusors from sctrach](https://github.com/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb) [Diffusion 1d example from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/1d_Diffusion_Model_from_scratch.ipynb) [Diffusion Models in Pytorch](https://github.com/dome272/Diffusion-Models-pytorch/blob/main/ddpm.py) [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/diffusion_models_.pdf)
     * [Tutorial  on diffusion models](https://arxiv.org/pdf/2403.18103)
