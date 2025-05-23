@@ -42,7 +42,7 @@ In your Jupyter notebook, document your entire workflow:
 
 1. **Introduction**: Briefly explain the goal of the assignment and the concept of Beta-VAE.
 2. **Data Preparation**: Show how you downloaded and prepared the CelebA dataset.
-3. **Training**: Include the code to train the Beta-VAE model. Use the `main.py` script provided in the repository.
+3. **Training**: Include the code to train the Beta-VAE model. Use the `[run.py](https://github.com/AntixK/PyTorch-VAE/blob/master/run.py)` script provided in the repository.
 4. **Results Analysis**: Visualize the reconstructed images, latent space traversals, and loss curves. Discuss your findings.
 5. **Experimentation**: Experiment with different beta values and analyze their impact on the results.
 
