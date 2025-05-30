@@ -59,11 +59,12 @@ By the end of this course, students should be able to:
    * [simple_autoregressive](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_autoregressive_gen_model.ipynb) [SimplePixelCNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/PixelCNN.ipynb) [PixelCNN full implementation](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/05_autoregressive/02_pixelcnn/pixelcnn.ipynb) [PixelCNN Mixture head](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/pixel_cnn_with_mixture_head.ipynb)
    * [char rnn](https://github.com/karpathy/char-rnn) [rnn-effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 5. **Diffusion Models** -(Part I)
-    * [Diffusors from sctrach](https://github.com/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb) [Diffusion 1d example from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/1d_Diffusion_Model_from_scratch.ipynb) [Diffusion Models in Pytorch](https://github.com/dome272/Diffusion-Models-pytorch/blob/main/ddpm.py) [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/diffusion_models_.pdf)
+    * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/diffusion_models_.pdf)
+    * [Diffusors from sctrach](https://github.com/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb) [Diffusion 1d example from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/1d_Diffusion_Model_from_scratch.ipynb) [Diffusion Models in Pytorch](https://github.com/dome272/Diffusion-Models-pytorch/blob/main/ddpm.py) 
     * [Tutorial  on diffusion models](https://arxiv.org/pdf/2403.18103)
     * Recall : [U-Nets](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/U_net_explained.ipynb) [U-net lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/U-nets.pdf)
     * [Topological Explaination of Diffusion Models, Homotopy](https://mathematica.stackexchange.com/questions/59463/homotopy-visualization)
-6. **Diffusion Models** - (Part II)
+7. **Diffusion Models** - (Part II)
     * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/diffusion_models_2.pdf)
     * [Score Matching](https://colab.research.google.com/drive/1dol5AXz_oNkFZMrwpDyK6MYnOB4ayEQU?usp=sharing#scrollTo=rU0m57SJfXqb)
     * [Conditional diffusion model introduction](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit2/02_class_conditioned_diffusion_model_example.ipynb)
@@ -74,7 +75,7 @@ By the end of this course, students should be able to:
     * [Understanding Stable Diffusions](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
     * [Stable Diffusion Video](https://www.youtube.com/watch?v=J87hffSMB60&t=615s)
     * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)
-7. **Energy-based models** -
+8. **Energy-based models** -
       * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/energy_models.pdf)
       * [Impainting crop](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)
@@ -83,17 +84,17 @@ By the end of this course, students should be able to:
       * [Metropolis-adjusted_Langevin_algorithm](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)
       * [Phyics of energy based models](https://physicsofebm.github.io/)
      
-8. **Generative 3D Models** -
+9. **Generative 3D Models** -
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/mesh_generation.pdf) [reference](https://arxiv.org/pdf/2301.11445), [github repo ref](https://github.com/1zb/3DShape2VecSet)
       * [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/MeshAutoEncoder.ipynb)
         
            
-9. **Graph Generative Models**
+10. **Graph Generative Models**
       * [Graph Variational AutoEncoders Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/GVAE.pdf) [Code](https://github.com/zfjsail/gae-pytorch/tree/master)
       * [Great intro to graph rep learning](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
       * [Graph RNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/deep_graph_generation_.pdf)
    
-10. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
+11. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
       * [A template notebook for building a multimodal](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/multimodal_model_template.ipynb)
       * [Embedding Alignment](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Embedding_Alignment.ipynb)
       * [Introduction to clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Introduction_to_clip.ipynb)
@@ -107,7 +108,7 @@ By the end of this course, students should be able to:
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Intro_to_MDM.pdf)
         
 
-11. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
+12. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
       * [Recall Super res NN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_nn%20(2).pdf)
       * [Simplified Super res NN implementation](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_NN_simplified.ipynb)
       * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
