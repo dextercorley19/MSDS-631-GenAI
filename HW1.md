@@ -14,9 +14,11 @@ In this assignment, you will train a Beta-VAE (BVAE) on the CelebA dataset using
 
 The code you will use is located in the [PyTorch-VAE repository](https://github.com/AntixK/PyTorch-VAE). Specifically, you will work with the Beta-VAE implementation in `models/beta_vae.py`.
 
+If for any reason you have difficulty running the above repo, you can use a helper notebook that I created to help you running the beta VAE network without errors. This notebook is given here: [BetaVAE](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Beta_VAE_Helper.ipynb)
+
 ## Steps
 
-### 1. Clone the Repository
+### 1. Clone the Repository Or Use the helper notebook
 
 Start by cloning the repository to your local machine:
 
@@ -24,6 +26,11 @@ Start by cloning the repository to your local machine:
 git clone https://github.com/AntixK/PyTorch-VAE.git
 cd PyTorch-VAE
 ```
+
+If the you cannot runt he above repo, you can alternativly use the a notebook that I created for you to help you start training a beta VAE.
+
+The helper notebook is given here [BetaVAE](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Beta_VAE_Helper.ipynb)
+You can use the above notebook for your homework as a starting point.
 
 ### 2. Prepare the CelebA Dataset
 
@@ -42,7 +49,7 @@ In your Jupyter notebook, document your entire workflow:
 
 1. **Introduction**: Briefly explain the goal of the assignment and the concept of Beta-VAE.
 2. **Data Preparation**: Show how you downloaded and prepared the CelebA dataset.
-3. **Training**: Include the code to train the Beta-VAE model. You may use the `[run.py](https://github.com/AntixK/PyTorch-VAE/blob/master/run.py)` script provided in the repository. But you can also use a similar training VAE loop to the one we used in the class.
+3. **Training**: Include the code to train the Beta-VAE model. You may use the `[run.py](https://github.com/AntixK/PyTorch-VAE/blob/master/run.py)` script provided in the repository. But you can also use a similar training VAE loop to the one we used in the class. Alterntivly you can use the helper notebook [BetaVAE](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Beta_VAE_Helper.ipynb) for your starting point.
 4. **Results Analysis**: Visualize the reconstructed images, latent space traversals, and loss curves. Discuss your findings.
 5. **Experimentation**: Experiment with different beta values and analyze their impact on the results.
 
