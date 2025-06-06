@@ -62,6 +62,7 @@ By the end of this course, students should be able to:
     * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/diffusion_models_.pdf)
     * [Diffusors from sctrach](https://github.com/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb) [Diffusion 1d example from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/1d_Diffusion_Model_from_scratch.ipynb) [Diffusion Models in Pytorch](https://github.com/dome272/Diffusion-Models-pytorch/blob/main/ddpm.py) 
     * [Tutorial  on diffusion models](https://arxiv.org/pdf/2403.18103)
+    * [Video Tutorial on diffuion models](https://www.youtube.com/watch?v=a4Yfz2FxXiY)
     * Recall : [U-Nets](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/U_net_explained.ipynb) [U-net lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/U-nets.pdf)
     * [Topological Explaination of Diffusion Models, Homotopy](https://mathematica.stackexchange.com/questions/59463/homotopy-visualization)
 7. **Diffusion Models** - (Part II)
