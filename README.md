@@ -60,7 +60,7 @@ By the end of this course, students should be able to:
    * [char rnn](https://github.com/karpathy/char-rnn) [rnn-effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 5. **Diffusion Models** -(Part I)
     * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/diffusion_models_.pdf)
-    * [Diffusors from sctrach](https://github.com/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb) [Diffusion 1d example from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/1d_Diffusion_Model_from_scratch.ipynb) [Diffusion Models in Pytorch](https://github.com/dome272/Diffusion-Models-pytorch/blob/main/ddpm.py) 
+    * [Diffusors tutorial on huggingface](https://huggingface.co/learn/diffusion-course/en/unit1/1) [Diffusion 1d example from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/1d_Diffusion_Model_from_scratch.ipynb) [Diffusion Models in Pytorch](https://github.com/dome272/Diffusion-Models-pytorch/blob/main/ddpm.py) 
     * [Tutorial  on diffusion models](https://arxiv.org/pdf/2403.18103)
     * [Video Tutorial on diffuion models](https://www.youtube.com/watch?v=a4Yfz2FxXiY)
     * Recall : [U-Nets](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/U_net_explained.ipynb) [U-net lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/U-nets.pdf)
