@@ -74,7 +74,7 @@ By the end of this course, students should be able to:
     * [Training Diffusors](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/training_example.ipynb#scrollTo=67640279-979b-490d-80fe-65673b94ae00)
     * [Stable diffusion introduction](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit3/01_stable_diffusion_introduction.ipynb#scrollTo=fx6whXJmsNG9),     [Stable diffusion](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=YE7hhg5ArUu4)
     * [Stable Diffusion in pytorch](https://github.com/hkproj/pytorch-stable-diffusion/tree/main)
-    * [Understanding Stable Diffusions](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
+    * [Grokking Stable Diffusion : self-contained stable diffusion tutorial](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
     * [Stable Diffusion Video](https://www.youtube.com/watch?v=J87hffSMB60&t=615s)
     * [Modern image generation, excellent intuitive overview of image generation with diffusion models](https://www.youtube.com/watch?v=1pgiu--4W3I)
     * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)
