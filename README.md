@@ -76,6 +76,7 @@ By the end of this course, students should be able to:
     * [Stable Diffusion in pytorch](https://github.com/hkproj/pytorch-stable-diffusion/tree/main)
     * [Understanding Stable Diffusions](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
     * [Stable Diffusion Video](https://www.youtube.com/watch?v=J87hffSMB60&t=615s)
+    * [Modern image generation, excellent intuitive overview of image generation with diffusion models](https://www.youtube.com/watch?v=1pgiu--4W3I)
     * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 8. **Energy-based models** -
       * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
