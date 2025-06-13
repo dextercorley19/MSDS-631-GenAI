@@ -77,8 +77,33 @@ By the end of this course, students should be able to:
     * [Grokking Stable Diffusion : self-contained stable diffusion tutorial](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
     * [Stable Diffusion Video](https://www.youtube.com/watch?v=J87hffSMB60&t=615s)
     * [Modern image generation, excellent intuitive overview of image generation with diffusion models](https://www.youtube.com/watch?v=1pgiu--4W3I)
-    * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)
-8. **Energy-based models** -
+    * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)  
+8. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
+      * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Intro_to_MDM.pdf)
+      - Clip related topics  
+      * [A template notebook for building a multimodal](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/multimodal_model_template.ipynb)
+      * [Embedding Alignment](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Embedding_Alignment_updated.ipynb)
+      * [Introduction to clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Introduction_to_clip.ipynb)
+      * [Building clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/building_clip.ipynb)
+      * [Introduction to zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_with_clip.ipynb)
+      * [zero shot classification with clip, MNIST example](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_mnist.ipynb)
+      * [image caption with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/image_caption_with_clip.ipynb)
+      * [Using clip in search](https://blog.lancedb.com/multi-modal-ai-made-easy-with-lancedb-clip-5aaf8801c939/)
+      * [Training Clip in practice](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Training_clip_in_practice.ipynb) [Clip-X](https://github.com/lucidrains/x-clip) [openClip](https://github.com/mlfoundations/open_clip/tree/main) [Hugging face clip model](https://huggingface.co/docs/transformers/en/model_doc/clip)
+      - Introduction to DALLE
+      * [Simplified DALLE from scratch](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
+      * [Vision Transformer main popular github library](https://github.com/lucidrains/vit-pytorch)
+        
+
+9. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
+      * [Recall Super res NN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_nn%20(2).pdf)
+      * [Simplified Super res NN implementation](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_NN_simplified.ipynb)
+      * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
+      * [Training Imagen in practice](https://github.com/lucidrains/imagen-pytorch)
+      * [How Dall-e 2 works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) [Video](https://www.youtube.com/watch?v=Z8E3LxqE49M)
+      * [Training Dall-e 2](https://github.com/lucidrains/DALLE2-pytorch?tab=readme-ov-file)
+      
+10. **Energy-based models** -
       * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/energy_models.pdf)
       * [Impainting crop](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)
@@ -87,40 +112,15 @@ By the end of this course, students should be able to:
       * [Metropolis-adjusted_Langevin_algorithm](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)
       * [Phyics of energy based models](https://physicsofebm.github.io/)
      
-9. **Generative 3D Models** -
+11. **Generative 3D Models** -
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/mesh_generation.pdf) [reference](https://arxiv.org/pdf/2301.11445), [github repo ref](https://github.com/1zb/3DShape2VecSet)
       * [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/MeshAutoEncoder.ipynb)
         
            
-10. **Graph Generative Models**
+12. **Graph Generative Models**
       * [Graph Variational AutoEncoders Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/GVAE.pdf) [Code](https://github.com/zfjsail/gae-pytorch/tree/master)
       * [Great intro to graph rep learning](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
       * [Graph RNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/deep_graph_generation_.pdf)
-   
-11. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
-      * [A template notebook for building a multimodal](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/multimodal_model_template.ipynb)
-      * [Embedding Alignment](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Embedding_Alignment_updated.ipynb)
-      * [Introduction to clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Introduction_to_clip.ipynb)
-      * [Building clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/building_clip.ipynb)
-      * [Introduction to zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_with_clip.ipynb)
-      * [zero shot classification with clip, MNIST example](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_mnist.ipynb)
-      * [zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Zero_shot_classification_with_clip_part2.ipynb)
-      * [Using clip in search](https://blog.lancedb.com/multi-modal-ai-made-easy-with-lancedb-clip-5aaf8801c939/)
-      * [Training Clip in practice](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Training_clip_in_practice.ipynb) [Clip-X](https://github.com/lucidrains/x-clip) [openClip](https://github.com/mlfoundations/open_clip/tree/main) [Hugging face clip model](https://huggingface.co/docs/transformers/en/model_doc/clip)
-      * [Simplified DALLE from scratch](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
-      * [Vision Transformer main popular github library](https://github.com/lucidrains/vit-pytorch)
-      * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Intro_to_MDM.pdf)
-        
-
-12. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
-      * [Recall Super res NN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_nn%20(2).pdf)
-      * [Simplified Super res NN implementation](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_NN_simplified.ipynb)
-      * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
-      * [Training Imagen in practice](https://github.com/lucidrains/imagen-pytorch)
-      * [How Dall-e 2 works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) [Video](https://www.youtube.com/watch?v=Z8E3LxqE49M)
-      * [Training Dall-e 2](https://github.com/lucidrains/DALLE2-pytorch?tab=readme-ov-file)
-
-
 
 ## Grading
 This course will involve several homework assignments and a final project focused on generative AI. Attendance and participation, homework assignments, and the final project will be graded as follows:
