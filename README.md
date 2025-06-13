@@ -103,6 +103,7 @@ By the end of this course, students should be able to:
       * [Introduction to clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Introduction_to_clip.ipynb)
       * [Building clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/building_clip.ipynb)
       * [Introduction to zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_with_clip.ipynb)
+      * [zero shot classification with clip, MNIST example](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_mnist.ipynb)
       * [zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Zero_shot_classification_with_clip_part2.ipynb)
       * [Using clip in search](https://blog.lancedb.com/multi-modal-ai-made-easy-with-lancedb-clip-5aaf8801c939/)
       * [Training Clip in practice](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Training_clip_in_practice.ipynb) [Clip-X](https://github.com/lucidrains/x-clip) [openClip](https://github.com/mlfoundations/open_clip/tree/main) [Hugging face clip model](https://huggingface.co/docs/transformers/en/model_doc/clip)
