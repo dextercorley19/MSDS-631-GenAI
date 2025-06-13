@@ -4,11 +4,15 @@
 
 In this homework, you will fine-tune a pre-trained image generation model using the butterfly dataset. The goal is to understand the process of fine-tuning and observe how the model adapts to a new dataset.
 
+You will mainly use the following hugging face note books :
+- [Introduction to diffusion models](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/01_introduction_to_diffusers.ipynb)
+- [Fine-Tuning Guide on GitHub](https://github.com/huggingface/diffusion-models-class/blob/main/unit2/01_finetuning_and_guidance.ipynb)
+
 ## Instructions
 
 ### 1. Load and Prepare the Dataset
 
-- Download the butterfly dataset.
+- Download the butterfly dataset. 
 - Create a dataloader to sample a batch of images.
 - Preprocess the images by resizing them, applying random horizontal flips, converting to tensors, and normalizing.
 
@@ -26,7 +30,7 @@ In this homework, you will fine-tune a pre-trained image generation model using 
 
 ### 4. Optional: Logging with Weights and Biases
 
-- Initialize a wandb project and log loss values during training.
+- Initialize a wandb project and log loss values during training. Wandb is not considered defeault knowledge in industry for ML engineers working in DL.
 - Track the average loss per epoch for better monitoring.
 
 ## Submission
