@@ -99,7 +99,7 @@ By the end of this course, students should be able to:
    
 11. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
       * [A template notebook for building a multimodal](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/multimodal_model_template.ipynb)
-      * [Embedding Alignment](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Embedding_Alignment.ipynb)
+      * [Embedding Alignment](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Embedding_Alignment_updated.ipynb)
       * [Introduction to clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Introduction_to_clip.ipynb)
       * [Building clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/building_clip.ipynb)
       * [Introduction to zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_with_clip.ipynb)
