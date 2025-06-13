@@ -133,6 +133,7 @@ This course will involve several homework assignments and a final project focuse
 Only work on the homeworks posted here. Do not work on the homeworks before they are posted here.
 
 [HW1](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW1.md)
+[HW2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW2.md)
 
 
 # Course Project:
