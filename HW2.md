@@ -6,7 +6,7 @@ In this homework, you will fine-tune a pre-trained image generation model using 
 
 You will mainly use the following hugging face note books :
 - [Introduction to diffusion models](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/01_introduction_to_diffusers.ipynb)
-- [Fine-Tuning Guide on GitHub](https://github.com/huggingface/diffusion-models-class/blob/main/unit2/01_finetuning_and_guidance.ipynb)
+- [Fine-Tuning Guide on GitHub](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit2/01_finetuning_and_guidance.ipynb)
 
 ## Instructions
 
@@ -49,6 +49,6 @@ Submit a single Jupyter Notebook file (.ipynb) with the following:
 
 ## Resources
 
-For detailed code and step-by-step instructions, refer to the [Fine-Tuning Guide on GitHub](https://github.com/huggingface/diffusion-models-class/blob/main/unit2/01_finetuning_and_guidance.ipynb). This notebook contains the complete code and explanations needed to fine-tune the model on the butterfly dataset and monitor its performance.
+For detailed code and step-by-step instructions, refer to the [Fine-Tuning Guide on GitHub](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit2/01_finetuning_and_guidance.ipynb). This notebook contains the complete code and explanations needed to fine-tune the model on the butterfly dataset and monitor its performance.
 
 By completing this homework, you will gain practical experience in fine-tuning a pre-trained image generation model and understanding the considerations involved in adapting models to new datasets. Good luck and have fun experimenting!
