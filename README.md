@@ -92,20 +92,24 @@ By the end of this course, students should be able to:
       * [Using clip in search](https://blog.lancedb.com/multi-modal-ai-made-easy-with-lancedb-clip-5aaf8801c939/)
       * [Training Clip in practice](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Training_clip_in_practice.ipynb) [Clip-X](https://github.com/lucidrains/x-clip) [openClip](https://github.com/mlfoundations/open_clip/tree/main) [Hugging face clip model](https://huggingface.co/docs/transformers/en/model_doc/clip)
         
-      *Introduction to DALLE*
-      * [Simplified DALLE from scratch](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
-      * [Vision Transformer main popular github library](https://github.com/lucidrains/vit-pytorch)
+
         
 
 9. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
-      * [Lecture DALLE2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/DALLE_2_MSDS_2025.pdf) [Lecture IMAGEN]()
-      * [Recall Super res NN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_nn%20(2).pdf)
-      * [Simplified Super res NN implementation](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_NN_simplified.ipynb)
-      * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
+      * [Lecture DALLE2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/DALLE_2_MSDS_2025.pdf) [Lecture IMAGEN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Imagen_MSDS_2025.pdf)
+
+      * DALLE and DALLE2*
+      * [Simplified DALLE from scratch](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
       * [Training Imagen in practice](https://github.com/lucidrains/imagen-pytorch)
       * [How Dall-e 2 works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) [Video](https://www.youtube.com/watch?v=Z8E3LxqE49M)
       * [Training Dall-e 2](https://github.com/lucidrains/DALLE2-pytorch?tab=readme-ov-file)
-      
+      * Recall materials  
+      * [Recall Super res NN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_nn%20(2).pdf)
+      * [Vision Transformer main popular github library](https://github.com/lucidrains/vit-pytorch)
+      * [Simplified Super res NN implementation](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_NN_simplified.ipynb)
+      * Imagen generative model
+      * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
+
 10. **Energy-based models** -
       * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/energy_models.pdf)
