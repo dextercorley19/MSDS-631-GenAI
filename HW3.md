@@ -1,4 +1,6 @@
 
+In this homework you will learn more about CLIP models.
+
 1. **Prepare the Dataset**  
 Download a dataset with image-caption pairs, such as the [Conceptual Captions](https://github.com/google-research-datasets/conceptual-captions) dataset from TensorFlow Datasets or a subset from the COCO dataset. Extract the dataset and note the path to the images and captions.
 
