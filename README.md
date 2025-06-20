@@ -60,6 +60,7 @@ By the end of this course, students should be able to:
    * [char rnn](https://github.com/karpathy/char-rnn) [rnn-effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 5. **Diffusion Models** -(Part I)
     * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/diffusion_models_.pdf)
+    * [The Diffusion Model's Unsung Sidekick: A Science of Solving (Almost) Any Problem using Probability](https://www.youtube.com/watch?v=Fk2I6pa6UeA&t=1105s)
     * [Diffusors tutorial on huggingface](https://huggingface.co/learn/diffusion-course/en/unit1/1) [Diffusion 1d example from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/1d_Diffusion_Model_from_scratch.ipynb)
     * [Tutorial  on diffusion models](https://arxiv.org/pdf/2403.18103)
     * [CVPR tutorial on diffusion models](https://cvpr2022-tutorial-diffusion-models.github.io/)
