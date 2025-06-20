@@ -98,6 +98,7 @@ By the end of this course, students should be able to:
         
 
 9. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
+      * [Lecture DALLE2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/DALLE_2_MSDS_2025.pdf) [Lecture IMAGEN]()
       * [Recall Super res NN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_nn%20(2).pdf)
       * [Simplified Super res NN implementation](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_NN_simplified.ipynb)
       * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
