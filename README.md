@@ -144,6 +144,7 @@ Only work on the homeworks posted here. Do not work on the homeworks before they
 
 - [HW1](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW1.md)
 - [HW2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW2.md)
+- [HW3](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW3.md)
 
 
 # Course Project:
