@@ -97,6 +97,7 @@ By the end of this course, students should be able to:
 
 9. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
       * [Lecture DALLE2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/DALLE_2_MSDS_2025.pdf) [Lecture IMAGEN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Imagen_MSDS_2025.pdf)
+      * [DALLE2 Code](https://github.com/lucidrains/imagen-pytorch) [IMAGEN Code](https://github.com/lucidrains/imagen-pytorch)
 
       * *DALLE and DALLE2*
       * [Simplified DALLE from scratch](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
